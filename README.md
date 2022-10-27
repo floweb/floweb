@@ -1,6 +1,6 @@
 ## Hi 👋 My name is Florian
 
-I'm a passionate self-taught IT guy (<em>Jack of all trades, master of none</em>) from Northern Basque Country, France (Iparraldea)
+I'm a passionate self-taught IT guy (<em>Jack of all trades, master of none</em>) from Basusarri, Northern Basque Country, France.
 
 <h3 align="left">Find me basically anywhere:</h3>
 <p align="left">
