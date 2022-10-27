@@ -10,8 +10,4 @@ I'm a passionate self-taught IT guy (<em>Jack of all trades, master of none</em>
 <a href="https://www.discogs.com/fr/user/floweb/collection" target="blank"><img align="center" alt="floweb@discogs" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Discogs_record_icon.svg/32px-Discogs_record_icon.svg.png" height="40" width="40" /></a>
 </p>
 
-
-https://www.discogs.com/fr/user/floweb/collection
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=floweb&show_icons=true&locale=en&layout=compact" alt="floweb" /></p>
